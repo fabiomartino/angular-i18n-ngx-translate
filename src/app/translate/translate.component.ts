@@ -1,7 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 
 @Component({
-  selector: 'ngx-test',
+  selector: 'app-test',
   templateUrl: './translate.component.html',
   styleUrls: ['./translate.component.css']
 })
